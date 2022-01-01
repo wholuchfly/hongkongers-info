@@ -1,5 +1,33 @@
-歡迎提供資料，意見 or create pull request
+*歡迎提供資料，意見 or create pull request*
 
+
+香港/中國資訊youtube推介
+----------
+* 眾新聞 --- https://www.youtube.com/c/%E7%9C%BE%E6%96%B0%E8%81%9E
+* 廣傳媒Media Analytica --- https://www.youtube.com/channel/UCuHo-TtuPt5ZrxkNLaY_tEQ
+* Stand News 立場新聞 (Backup) --- https://www.youtube.com/channel/UCWjIQyxeNx6qhe4mgBSoQig
+* 堅離地球 · 沈旭暉 --- https://www.youtube.com/channel/UCXf8jlTSP9kp6g4ROCfgvbQ
+* 志雲頻道 stephenchannel --- https://www.youtube.com/c/%E5%BF%97%E9%9B%B2%E9%A0%BB%E9%81%93stephenchannel
+* 珍言真語 --- https://www.youtube.com/c/%E7%8F%8D%E8%A8%80%E7%9C%9F%E8%AA%9E%E5%A4%A7%E7%B4%80%E5%85%83
+* 大紀元新聞網 --- https://www.youtube.com/c/DJYNews
+
+
+中國現況
+--------------
+* 未公开的中国 --- https://www.youtube.com/channel/UCzlrQPyURtcYgf7ZGqYn68A/videos
+* 廠妹&男閨蜜 ChinaMaid --- https://www.youtube.com/channel/UC_8caHmUQLRRAOnKYSwt8hQ
+* 九歌Volg ---  https://www.youtube.com/channel/UCfz12vhnTQkbLyeDAm5LCMA
+* 石炳鋒 --- https://www.youtube.com/c/%E7%9F%B3%E7%82%B3%E9%8B%92/videos
+
+
+
+親中/中國大外宣組織
+-----------
+* No Cold War Britain ----- https://twitter.com/NCWBritain
+
+
+歷史
+----------
 
 解散
 ------------
