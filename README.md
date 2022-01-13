@@ -7,11 +7,13 @@
 ----------
 * 廣傳媒Media Analytica --- https://www.youtube.com/channel/UCuHo-TtuPt5ZrxkNLaY_tEQ
 * 堅離地球 · 沈旭暉 --- https://www.youtube.com/channel/UCXf8jlTSP9kp6g4ROCfgvbQ
+* 和你報WhatsNewsMedia --- https://www.youtube.com/channel/UCGD5nq_6RYzPf6wZnsqE8Vg/videos
 * 志雲頻道 stephenchannel --- https://www.youtube.com/c/%E5%BF%97%E9%9B%B2%E9%A0%BB%E9%81%93stephenchannel
 * 珍言真語 --- https://www.youtube.com/c/%E7%8F%8D%E8%A8%80%E7%9C%9F%E8%AA%9E%E5%A4%A7%E7%B4%80%E5%85%83
 * 大紀元新聞網 --- https://www.youtube.com/c/DJYNews
-* Stand News 立場新聞 (Backup) --- https://www.youtube.com/channel/UCWjIQyxeNx6qhe4mgBSoQig
-* 眾新聞 --- https://www.youtube.com/c/%E7%9C%BE%E6%96%B0%E8%81%9E
+* 袁爸爸 袁弓夷政經評論 --- https://www.youtube.com/channel/UCjk53hHh_fKcWCks8uDjmwQ
+* (Closed) Stand News 立場新聞 (Backup) --- https://www.youtube.com/channel/UCWjIQyxeNx6qhe4mgBSoQig
+* (Closed) 眾新聞 --- https://www.youtube.com/c/%E7%9C%BE%E6%96%B0%E8%81%9E
 
 
 中國現況
@@ -23,20 +25,55 @@
 
 Useful website
 ---------------------
-* https://www.hkprotestdb.com
+* 和你報 --- https://www.whatsnewsmedia.com
+* 港語學 --- https://gongjyuhok.hk
+* hkprotestdb --- https://www.hkprotestdb.com
+* Freedom Hong Kong --- https://freedomhongkong.org/en/
+* 堅離地球沈旭暉 --- https://simonglocal.com
+* 和你FC --- https://www.facebook.com/fcwithyou
+* 粵語計算語言學基礎建設組 CanCLID --- https://twitter.com/Can_CLID
+* (Closed) HK DEMOCRATIC M. 2019 --- https://mega.nz/folder/CuxUhYYI#5o_VDzI9QVD4ec39j3q5Ug
+
+
+
+News Backup
+----------
 * 《立場》網站絕大部分文章 --- https://web.archive.org/web/20211229143031/https://www.thestandnews.com/
-* 《立場》 Youtube 677 條影片（未齊）可在網上收看 --- https://archive.org/details/20210623_20210624/20211013-%E9%99%B3%E7%8F%8F%E6%98%8E%E3%80%8A%E7%B9%BC%E7%BA%8C%E5%A0%B1%E9%81%93%E3%80%8B%EF%BC%9A%E5%AE%98%E5%93%A1%E7%8B%99%E6%93%8A%E3%80%8C%E5%81%87%E8%B3%87%E8%A8%8A%E3%80%8D%E7%9A%84%E7%90%86%E6%93%9A%E6%98%AF%E7%94%9A%E9%BA%BC%EF%BC%9F.mp4
+* 《立場》 Youtube 677 條影片（未齊）可在網上收看  --- https://archive.org/details/20210623_20210624/20211013-%E9%99%B3%E7%8F%8F%E6%98%8E%E3%80%8A%E7%B9%BC%E7%BA%8C%E5%A0%B1%E9%81%93%E3%80%8B%EF%BC%9A%E5%AE%98%E5%93%A1%E7%8B%99%E6%93%8A%E3%80%8C%E5%81%87%E8%B3%87%E8%A8%8A%E3%80%8D%E7%9A%84%E7%90%86%E6%93%9A%E6%98%AF%E7%94%9A%E9%BA%BC%EF%BC%9F.mp4
 * 港台影片備份 --- https://ipfs.io/ipfs/QmfDzyAZHu9EPAoZH7Sm6Ju7Mws58Ja2k1ncapUNDRyhA2
 * 蘋果備份網站（果靈聞庫） --- https://collection.news
-* 蘋果備份文章（以日期排序，純文字內容）--- https://ipfs.io/ipfs/Qmdig4NtBTbUiw9KRri83Warmrp4f5PFFFZMoQUwqXuNbZ/
-* HK DEMOCRATIC M. 2019 --- https://tl.hkrev.info/en/
-* Freedom Hong Kong --- https://freedomhongkong.org/en/
-
+* 蘋果備份文章（以日期排序，純文字內容） --- https://ipfs.io/ipfs/Qmdig4NtBTbUiw9KRri83Warmrp4f5PFFFZMoQUwqXuNbZ/
 
 
 親中/中國大外宣組織
 -----------
 * No Cold War Britain ----- https://twitter.com/NCWBritain
+
+
+Useful github project
+--------------
+* Label users on LIHKG --- https://github.com/kitce/libel
+* The Constitution of Hong Kong (Mainland and Overseas) 香 港（本 土 及 海 外）憲 法
+ --- https://github.com/PhoenixHongKong/TheConstitutionofHongKong
+* 粵語計算語言學基礎建設組 (CanCLID) --- https://github.com/CanCLID
+
+
+Overseas Hongkonger
+------------
+* 3隻小豬的流亡生活
+  * https://www.patreon.com/3pigs_inexile
+  * https://www.instagram.com/3pigsinexile/
+  * (No update) https://www.facebook.com/三隻小豬的離港日常-103596091948648/?ref=py_c
+* 沈旭暉 Simon Shen --- https://www.patreon.com/simonshen
+* 黑群義工 --- https://www.facebook.com/BlackBlocHongKongers/
+* 香港人日程表 --- https://www.facebook.com/hkerschedule/
+
+
+藍店 (need more info and proved)
+----------------------------
+* 亞洲國際餐飲 Taste of Asia
+  * DAU竇 -- 竇MC Dau
+
 
 
 歷史
