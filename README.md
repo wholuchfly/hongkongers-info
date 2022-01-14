@@ -48,6 +48,21 @@ News Backup
 親中/中國大外宣組織
 -----------
 * No Cold War Britain ----- https://twitter.com/NCWBritain
+* 李貞駒（Christine Lee / Christine Ching Kui Lee）
+   * spy in UK
+   * 英國華人計劃 / 英國華人參政計劃 （British Chinese Project）
+   * son
+     * Michael Wilkes
+     * Daniel
+   * ref 
+     * https://www.epochtimes.com/b5/20/7/12/n12250636.htm
+     * https://www.bbc.co.uk/news/uk-politics-59984380
+* 李雪琳 (Li Xuelin) / 雪琳·貝茨 (Xuelin Bates)
+   * ref 
+     * https://www.epochtimes.com/b5/20/7/12/n12250636.htm
+
+
+
 
 
 Useful github project
