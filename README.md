@@ -34,6 +34,7 @@ Useful website
 * 粵語計算語言學基礎建設組 CanCLID --- https://twitter.com/Can_CLID
 * (Closed) HK DEMOCRATIC M. 2019 --- https://mega.nz/folder/CuxUhYYI#5o_VDzI9QVD4ec39j3q5Ug
 * LiBERKONG --- https://www.liberkong.org
+* Hong Kong Watch --- https://www.hongkongwatch.org
 
 
 
