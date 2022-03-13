@@ -35,6 +35,7 @@ Useful website
 * (Closed) HK DEMOCRATIC M. 2019 --- https://mega.nz/folder/CuxUhYYI#5o_VDzI9QVD4ec39j3q5Ug
 * LiBERKONG --- https://www.liberkong.org
 * Hong Kong Watch --- https://www.hongkongwatch.org
+* 香港本地音樂推廣員hkmusicpromote --- https://www.youtube.com/c/香港本地音樂推廣員hkmusicpromoter
 
 
 
@@ -74,6 +75,8 @@ Useful github project
  --- https://github.com/PhoenixHongKong/TheConstitutionofHongKong
 * Label users on LIHKG --- https://github.com/kitce/libel
 * 粵語計算語言學基礎建設組 (CanCLID) --- https://github.com/CanCLID
+* 《蘋果日報》文字備份計劃 --- https://github.com/collection-news/appledaily-archive-directory
+* 聞庫 --- https://github.com/collection-news
 
 
 Overseas Hongkonger
