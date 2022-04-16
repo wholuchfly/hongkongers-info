@@ -12,6 +12,7 @@
 * 珍言真語 --- https://www.youtube.com/c/%E7%8F%8D%E8%A8%80%E7%9C%9F%E8%AA%9E%E5%A4%A7%E7%B4%80%E5%85%83
 * 大紀元新聞網 --- https://www.youtube.com/c/DJYNews
 * 袁爸爸 袁弓夷政經評論 --- https://www.youtube.com/channel/UCjk53hHh_fKcWCks8uDjmwQ
+* Factcheck Lab 事實查核實驗室 --- https://www.factchecklab.org
 * (Closed) Stand News 立場新聞 (Backup) --- https://www.youtube.com/channel/UCWjIQyxeNx6qhe4mgBSoQig
 * (Closed) 眾新聞 --- https://www.youtube.com/c/%E7%9C%BE%E6%96%B0%E8%81%9E
 
@@ -36,6 +37,8 @@ Useful website
 * LiBERKONG --- https://www.liberkong.org
 * Hong Kong Watch --- https://www.hongkongwatch.org
 * 香港本地音樂推廣員hkmusicpromote --- https://www.youtube.com/c/香港本地音樂推廣員hkmusicpromoter
+* 黃藍列表 --- https://yellow-blue-map.netlify.app
+* Hong Kong Rule of Law Monitor 香港法治監察 --- https://hkrlm.org
 
 
 
